@@ -27,7 +27,7 @@ python-qa-assistant/
 └── README.md
 ⚙️ Installation & Setup
 1️⃣ Clone repository
-git clone https://github.com/your-username/python-qa-assistant.git
+git clone https://github.com/harishsaini1812/python-qa-assistant.git
 cd python-qa-assistant
 2️⃣ Create virtual environment
 python -m venv venv
